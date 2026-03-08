@@ -1,0 +1,10 @@
+citations: null
+description: Implement TX:AGRC:DEC_CH4_RICE_NDC2020_EST at 10%
+identifiers:
+  transformation_code: TX:AGRC:DEC_CH4_RICE_NDC2020_EST_P10
+  transformation_name: 'Default Value - AGRC: Improve rice management with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_CH4_RICE
